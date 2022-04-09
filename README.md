@@ -9,9 +9,13 @@
             SECONDLY PLAY THE GAME 4 HOURS A DAY
             Have no  life and finally
             do not break your pc.</p>
-            <img src="https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_960_720.jpg"
-        </main>
+            <img src="https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_960_720.jpg">
+            </main>
+            <footer>
+                <h2> Have fun </h2>
+                <p>Contact me at prgamer1525@gmail.com</p>
+            </footer>
+   
         </body>
-        </html>
-        
+</html>
         
